@@ -102,6 +102,12 @@ httpd.serve_forever()
 
 
 ## OUTPUT:
+![gitHub logo](screenshot1.png)
+
+![github logo](Screenshot2.png)
+
+![gitHub logo](Screenshot3.png)
 
 
 ## RESULT:
+Thus the websrever is developed to display about top five programming languages.
